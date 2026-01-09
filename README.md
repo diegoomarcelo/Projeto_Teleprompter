@@ -117,7 +117,7 @@ python app.py
 O sistema solicitará a senha:
 
 ```
-
+123456
 ```
 
 Se tudo estiver correto, o servidor ficará disponível em:
